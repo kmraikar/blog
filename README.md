@@ -10,7 +10,7 @@ Things you may want to cover:
 - System dependencies
 
 - Configuration
-- one more configuration
+- one more configurationnn
 
 - Database creation
 
